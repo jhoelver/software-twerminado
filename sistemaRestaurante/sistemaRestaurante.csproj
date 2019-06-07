@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53AC1C19-3072-42B6-AADF-274A7DA8FC2E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sistemaRestaurante</RootNamespace>
+    <AssemblyName>sistemaRestaurante</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseDeDatos\conexion.cs" />
+    <Compile Include="Modelo\C_Mostrar_ categoriaPlat.cs" />
+    <Compile Include="Modelo\C_Registrar_Cliente.cs" />
+    <Compile Include="Modelo\C_Registrar_direccion.cs" />
+    <Compile Include="Modelo\C_Registrar_Ingre.cs" />
+    <Compile Include="Modelo\C_Mostrar_ categoriaCli.cs" />
+    <Compile Include="Modelo\controlMesa.cs" />
+    <Compile Include="Modelo\C_realizar_pedido.cs" />
+    <Compile Include="Modelo\C_Registrar_Platillo.cs.cs" />
+    <Compile Include="Modelo\controlRol.cs" />
+    <Compile Include="Modelo\C_Registrar _usuario.cs" />
+    <Compile Include="Vista\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controlar\M_Mostrar_ categoriaCli.cs" />
+    <Compile Include="Controlar\M_Mostrar_ categoriaPlat.cs" />
+    <Compile Include="Controlar\M_Registrar_Cliente.cs" />
+    <Compile Include="Controlar\M_Registrar_direccion.cs" />
+    <Compile Include="Controlar\M_Registrar_Ingre.cs" />
+    <Compile Include="Controlar\mesa.cs" />
+    <Compile Include="Controlar\M_Registrar_Platillo.cs.cs" />
+    <Compile Include="Controlar\reservaMesa.cs" />
+    <Compile Include="Controlar\roles.cs" />
+    <Compile Include="Controlar\statusMesa.cs" />
+    <Compile Include="Controlar\M_Registrar _usuario.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista\V_Registrar_Platillo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_Registrar_Platillo.Designer.cs">
+      <DependentUpon>V_Registrar_Platillo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_Mostrar_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_Mostrar_Clientes.Designer.cs">
+      <DependentUpon>V_Mostrar_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_Registrar _usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_Registrar _usuario.Designer.cs">
+      <DependentUpon>V_Registrar _usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_Registrar_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_Registrar_Cliente.Designer.cs">
+      <DependentUpon>V_Registrar_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\detalleProductoIngredientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\detalleProductoIngredientes.Designer.cs">
+      <DependentUpon>detalleProductoIngredientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_eliminar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_eliminar_cliente.Designer.cs">
+      <DependentUpon>V_eliminar_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_eliminar_platillo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_eliminar_platillo.Designer.cs">
+      <DependentUpon>V_eliminar_platillo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\eliminarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\eliminarUsuario.Designer.cs">
+      <DependentUpon>eliminarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_Registrar_Ingre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_Registrar_Ingre.Designer.cs">
+      <DependentUpon>V_Registrar_Ingre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\inicio.Designer.cs">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\mesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\mesas.Designer.cs">
+      <DependentUpon>mesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\V_realizar_pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\V_realizar_pedido.Designer.cs">
+      <DependentUpon>V_realizar_pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\productosEingredientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\productosEingredientes.Designer.cs">
+      <DependentUpon>productosEingredientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\tipoOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\tipoOrden.Designer.cs">
+      <DependentUpon>tipoOrden.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vista\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vista\V_Registrar_Platillo.resx">
+      <DependentUpon>V_Registrar_Platillo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_Mostrar_Clientes.resx">
+      <DependentUpon>V_Mostrar_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_Registrar _usuario.resx">
+      <DependentUpon>V_Registrar _usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_Registrar_Cliente.resx">
+      <DependentUpon>V_Registrar_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\detalleProductoIngredientes.resx">
+      <DependentUpon>detalleProductoIngredientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_eliminar_cliente.resx">
+      <DependentUpon>V_eliminar_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_eliminar_platillo.resx">
+      <DependentUpon>V_eliminar_platillo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\eliminarUsuario.resx">
+      <DependentUpon>eliminarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_Registrar_Ingre.resx">
+      <DependentUpon>V_Registrar_Ingre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\inicio.resx">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\mesas.resx">
+      <DependentUpon>mesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\V_realizar_pedido.resx">
+      <DependentUpon>V_realizar_pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\productosEingredientes.resx">
+      <DependentUpon>productosEingredientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\tipoOrden.resx">
+      <DependentUpon>tipoOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,71 @@
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\bin\Debug\sistemaRestaurante.exe
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\bin\Debug\sistemaRestaurante.pdb
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.Form1.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.Properties.Resources.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.inicio.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.csproj.GenerateResource.Cache
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.exe
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.pdb
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.altaUsuario.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarUsuario.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.clienteFrecuente.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarClienteFrecu.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.mesas.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.Orden.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.tipoOrden.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.productosEingredientes.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.admoningredientes.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.agregarProducto.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarProducto.resources
+C:\Users\FsaSanchez\Documents\Visual Studio 2012\Projects\nuevoServices\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.detalleProductoIngredientes.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.exe
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.pdb
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\bin\Debug\sistemaRestaurante.exe
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\bin\Debug\sistemaRestaurante.pdb
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.csprojResolveAssemblyReference.cache
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.Properties.Resources.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.altaUsuario.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.detalleProductoIngredientes.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarClienteFrecu.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarProducto.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarUsuario.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.inicio.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.mesas.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.Orden.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.productosEingredientes.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.tipoOrden.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.csproj.GenerateResource.Cache
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.Login.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.menu.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.V_Registrar_Ingre.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.V_Registrar_Platillo.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.btnEliminarClientes.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\restaurante+BD\restaurante\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.MostrarCliente.resources
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.exe
+E:\Disco Local E\UNIVERSIDAD CONTINENTAL\CICLO VII\PROCESOS DE SOFTWARE\Sistema\sistemaRestaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.pdb
+G:\PROCESOS DE SOFTWARE\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.exe
+G:\PROCESOS DE SOFTWARE\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.pdb
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.exe
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.pdb
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\bin\Debug\sistemaRestaurante.exe
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\bin\Debug\sistemaRestaurante.pdb
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.csprojResolveAssemblyReference.cache
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.Login.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.menu.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.Properties.Resources.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.V_Registrar_Platillo.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.MostrarCliente.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.altaUsuario.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.btnEliminarClientes.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.detalleProductoIngredientes.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarClienteFrecu.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarProducto.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.eliminarUsuario.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.V_Registrar_Ingre.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.inicio.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.mesas.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.Orden.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.productosEingredientes.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.vistas.tipoOrden.resources
+G:\Proceso de software\Sistema Restaurante\sistemaRestaurante\obj\Debug\sistemaRestaurante.csproj.GenerateResource.Cache
